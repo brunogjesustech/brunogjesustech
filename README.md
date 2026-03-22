@@ -1,4 +1,4 @@
-<center><h2>👋 Seja Bem-Vindo ao meu GitHub!</h2></center>
+<center> <h2>👋 Seja Bem-Vindo ao meu GitHub!</h2> </center>
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400px">
