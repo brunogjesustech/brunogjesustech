@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist.png](https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg)" width="25" /> Prazer, me chamo **Bruno Gonçalves**, sou de **Minas Gerais** 🇧🇷  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width="25" /> Prazer, me chamo **Bruno Gonçalves**, sou de **Minas Gerais** 🇧🇷  
 <br />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua  
