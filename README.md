@@ -1,39 +1,106 @@
-# 👋 Olá, eu sou o Bruno Gonçalves
+<center><h2>👋 Seja Bem-Vindo ao meu GitHub!</h2></center>
 
-🎯 **Entusiasta de Tecnologia & Dados**  
-Atuo no setor **metalúrgico**, com experiência em **Controle de Qualidade**, aplicando ferramentas como **5W2H**, **Diagrama de Ishikawa**, **Gráfico de Gantt** e **Power BI**.  
-Participei de auditorias da **ISO 9001** e da emissão de certificados técnicos, contribuindo para a **melhoria contínua dos processos**.
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400px">
+</p>
 
 ---
 
-## 🚀 Minha Jornada em Tecnologia
-- 🎓 **Cursando Análise e Desenvolvimento de Sistemas** – 1º semestre na Faseh (Faculdade da Saúde e Ecologia Humana)  
-- 🔧 Explorando **automação**, **desenvolvimento de software** e **gestão de dados**  
-- 📊 Interesse especial em **análise de dados** e **processos inteligentes**  
-- 🤝 Aberto a desafios que envolvam **inovação, colaboração e resolução de problemas**
+## 👨‍💻 Sobre mim
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist.png" width="25" /> Prazer, me chamo **Bruno Gonçalves**, sou de **Minas Gerais** 🇧🇷  
+<br />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua  
+<br />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain.png" width="25" /> Em transição para a área de **Tecnologia & Dados**  
+<br />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Graduation%20Cap.png" width="25" /> Cursando **Análise e Desenvolvimento de Sistemas**  
+<br />
+
+---
+
+## 🚀 Minha Jornada
+
+- 🔧 Experiência com **ISO 9001**, auditorias e certificações  
+- 📊 Aplicação prática de **Power BI e análise de dados**  
+- 🧠 Uso de ferramentas como **5W2H, Ishikawa e Gantt**  
+- 💻 Evoluindo em **programação e automação de processos**  
+- 🎯 Objetivo: Migrar definitivamente para a área de **Tecnologia**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Qualidade & Processos:** 5W2H, Ishikawa, Gantt, ISO 9001  
-- **Business Intelligence:** Power BI  
-- **Versionamento & DevOps:** Git, GitHub  
-- **Em aprendizado:** Java, UX/UI, Automação de processos
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70">
+
+</p>
 
 ---
 
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunogjesustech&show_icons=true&theme=radical)
+## 📚 Conhecimentos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogjesustech&layout=compact&theme=radical)
+| Área | Ferramentas |
+|------|------------|
+| Qualidade | 5W2H, Ishikawa, Gantt, ISO 9001 |
+| Dados | Power BI |
+| Desenvolvimento | Java (iniciante), JavaScript |
+| Versionamento | Git & GitHub |
+
+---
+
+## 📊 Estatísticas no GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunogjesustech&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogjesustech&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
+</div>
 
 ---
 
 ## 🌐 Conecte-se comigo
-- 🔗 [Linktree](https://linktr.ee/brunogjesus)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/brunogjesus/)  
-- 📷 [Instagram](https://www.instagram.com/brunogjesus_/)  
+
+<p align="left">
+
+<a href="https://linktr.ee/brunogjesus">
+<img src="https://img.shields.io/badge/-Linktree-020114?style=for-the-badge&logo=linktree&logoColor=6ED2B6">
+</a>
+
+<a href="https://www.linkedin.com/in/brunogjesus/">
+<img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6">
+</a>
+
+<a href="https://www.instagram.com/brunogjesus_/">
+<img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&logo=instagram&logoColor=6ED2B6">
+</a>
+
+</p>
 
 ---
 
-✨ *Este perfil é um espaço para compartilhar minha evolução como entusiasta de tecnologia e dados. Veja meus projetos, acompanhe minha jornada e conecte-se para trocar ideias!*
+## ✨ Objetivo
+
+> Construir uma carreira sólida em **Tecnologia**, unindo minha experiência em **processos industriais** com **dados, automação e desenvolvimento de software**.
+
+---
+
+💡 *Aqui você vai encontrar minha evolução, projetos e estudos na prática. Fique à vontade para acompanhar e trocar ideias!*
