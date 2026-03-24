@@ -11,14 +11,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width="25" /> Prazer, me chamo **Bruno Gonçalves**, sou de **Minas Gerais** 🇧🇷  
 <br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua  
-<br />
+ Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua  
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain.png" width="25" /> Em transição para a área de **Tecnologia & Dados**  
-<br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Graduation%20Cap.png" width="25" /> Cursando **Análise e Desenvolvimento de Sistemas**  
-<br />
+Em transição para a área de **Tecnologia & Dados**  
+
+
+Cursando **Análise e Desenvolvimento de Sistemas**  
+
 
 ---
 
@@ -41,14 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70">
 
 </p>
 
