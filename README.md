@@ -11,7 +11,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" width="25" /> Prazer, me chamo **Bruno Gonçalves**, sou de **Minas Gerais** 🇧🇷  
 <br />
 
- Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua  
+ Atuo com **Controle de Qualidade na Metalurgia**, focado em melhoria contínua de processos 
 
 
 Em transição para a área de **Tecnologia & Dados**  
@@ -44,30 +44,7 @@ Cursando **Análise e Desenvolvimento de Sistemas**
 
 </p>
 
----
 
-## 📚 Conhecimentos
-
-| Área | Ferramentas |
-|------|------------|
-| Qualidade | 5W2H, Ishikawa, Gantt, ISO 9001 |
-| Dados | Power BI |
-| Desenvolvimento | Java (iniciante), JavaScript |
-| Versionamento | Git & GitHub |
-
----
-
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunogjesustech&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogjesustech&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-
-</div>
-
----
 
 ## 🌐 Conecte-se comigo
 
@@ -87,12 +64,3 @@ Cursando **Análise e Desenvolvimento de Sistemas**
 
 </p>
 
----
-
-## ✨ Objetivo
-
-> Construir uma carreira sólida em **Tecnologia**, unindo minha experiência em **processos industriais** com **dados, automação e desenvolvimento de software**.
-
----
-
-💡 *Aqui você vai encontrar minha evolução, projetos e estudos na prática. Fique à vontade para acompanhar e trocar ideias!*
